@@ -10,6 +10,7 @@
 
 博客地址 | RSS地址
 ----- | -----
+[胜利哥的江湖](http://iamdaiyuan.github.io/)|
 [OneV's Den](http://onevcat.com) | <http://onevcat.com/atom.xml>
 [破船之家](http://beyondvincent.com) | <http://beyondvincent.com/atom.xml>
 [NSHipster](http://nshipster.cn) | <http://nshipster.cn/feed.xml>
